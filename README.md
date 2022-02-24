@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-1. ### `npm init`
+1. ### `npm install`
 
 2. ### `npm start`
 
